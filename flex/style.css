@@ -1,0 +1,36 @@
+body {
+    background-color: green;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile {
+    background-color: white;
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: rgba(149,157,165,0.2) 0px 8px 24px;
+    padding: 10px;
+}
+
+.profile-image-adapter {
+    text-align: center;
+}
+
+.profile-image {
+    text-align: center;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.links-profile {
+    padding: 0px;
+}
+
+.links-list {
+    list-style: none;
+}
